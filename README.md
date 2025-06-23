@@ -21,7 +21,8 @@ siteAda/
 ├── assets/ # Imagens e fontes utilizadas no site
 │ ├── img/
 │ └── fonts/
-└── README.md # Este arquivo ```
+└── README.md # Este arquivo .
+```
 
 ## 💡 Funcionalidades
 
