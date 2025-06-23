@@ -13,7 +13,7 @@ acessível e com identidade visual própria.
 - Imagens e ícones temáticos
 
 ## 📁 Estrutura do Projeto
-
+```
 siteAda/
 ├── index.html # Página principal
 ├── style.css # Estilos personalizados
@@ -21,11 +21,7 @@ siteAda/
 ├── assets/ # Imagens e fontes utilizadas no site
 │ ├── img/
 │ └── fonts/
-└── README.md # Este arquivo
-
-markdown
-Copiar
-Editar
+└── README.md # Este arquivo ```
 
 ## 💡 Funcionalidades
 
